@@ -46,34 +46,34 @@
 | 38   |I think it tastes good|Tôi nghĩ nó rất ngon|
 | 39   |I need to go home |Tôi cần về nhà|
 | 40   |I only want a snack|Tôi chỉ muốn một món đồ ăn nhẹ|
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
+| 41   |I thought the clothes ware cheaper|Tôi nghĩ quần áo rẻ hơn|
+| 42   |I was about to leave the restaurent when my friends arrived|Tôi định rời khỏi nhà hàng khi những người bạn của tôi tới|
+| 43   |I'd like to go for a walk|Tôi muốn đi dạo|
+| 44   |If you need my help, please let me now|Nếu bạn muốn tôi giúp, làm ơn hãy cho tôi biết|
+| 45   |I'll call you when I leave|Tôi sẽ gọi bạn khi tôi rời đi|
+| 46   |I'll call back later|Tôi sẽ trở lại sau|
+| 47   |I'll pay| Tôi sẽ trả|
+| 48   |I'll take it|Tôi sẽ mua nó|
+| 50   |I'll take you to the bus stop|Tôi sẽ đưa bạn tới trạm xe buýt|
+| 51   |I'm an Vietnamese|Tôi là người viêt nam|
+| 52   |I'm cleaning my room|Tôi đang dọn dẹp phỏng của tôi|
+| 53   |I'm cold|Tôi lạnh|
+| 54   |I' comming to pick you up |Tôi đang tới đón bạn|
+| 55   |I'm going to leave|Tôi đang rời đi|
+| 56   |I'm good, thanks|Tôi khoẻ, cảm ơn|
+| 57   |I'm happy |Tôi vui|
+| 58   |I'm hungry |Tôi đói|
+| 59   |I'm not busy|Tôi không bận |
+| 60   |I'm not marrid|Tôi chưa có gia đình |
+| 61   |I'm not ready yet |Tôi chưa sẵn sàng|
+| 62   |I'm not sure | Tôi không chắc |
+| 63   |I'm sorry, We're sold out |Tôi rất tiếc, chúng tôi hết hàng|
+| 64   |I'm thirsty|Tôi khát |
+| 65   |I'm very busy, because I don't have time now|Tôi rất bận, bởi vì tôi không có thời gian ngay bây giờ|
+| 66   |Is Mr Smith an American|Ông Smith có phải là người mĩ không|
+| 67   |Is that enough|Như vậy đủ không|
+| 68   |It's longer than two miles|Nó dài hơn 2 dặm|
+| 69   |                                          Title       |            Here's this   |
 |      |                                          Title       |            Here's this   |
 |      |                                          Title       |            Here's this   |
 |      |                                          Title       |            Here's this   |
