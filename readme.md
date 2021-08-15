@@ -4,11 +4,11 @@
 - [Facebook : Nguyễn Đức Thông](https://www.facebook.com/1824ttd)
 ## Dự án thực tế để tham khảo
 
-| Dự án       | Nội dung    |  Keywork      | Video   |
-| :---        |    :----:   |   :----:      |    ---: | 
-|[App BMI](https://github.com/thong2802/App-BMI-Calculator-java-)       | App BMI dùng để đo chỉ số sức khoẻ con người| Java , Android  |[Youtube](https://www.youtube.com/watch?v=2505oxYFVlM) |  
-|[App weather](https://github.com/thong2802/app-weather)| Lấy dữ liệu thời tiết từ Api      | Retrofit, Android   |         |
-|[Page checkbox](https://augleather.com/pages/catalog)| Xây dựng page html cho user select size dây đồng hồ trên nền tảng Shopify            |  html, css, javascript              |         |
+| Dự án       |                 Nội dung    |  Keywork      | Video   |
+| :---        |                    :----:   |   :----:      |    ---: | 
+|[App BMI](https://github.com/thong2802/App-BMI-Calculator-java-)       | App BMI dùng để đo chỉ số sức khoẻ con người        | Java , Android  |[Youtube](https://www.youtube.com/watch?v=2505oxYFVlM) |  
+|[App weather](https://github.com/thong2802/app-weather)| Lấy dữ liệu thời tiết từ Api                | Retrofit, Android   |         |
+|[Page checkbox](https://augleather.com/pages/catalog)| Xây dựng page html cho user select size dây đồng hồ trên nền tảng Shopify                         |  html, css, javascript              |         |
 
 
 ## Các bài viết về các chủ đề trong Software Engineer
