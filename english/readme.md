@@ -73,20 +73,30 @@
 | 66   |Is Mr Smith an American|Ông Smith có phải là người mĩ không|
 | 67   |Is that enough|Như vậy đủ không|
 | 68   |It's longer than two miles|Nó dài hơn 2 dặm|
-| 69   |                                          Title       |            Here's this   |
+| 69   |I've been here two day|Tôi đã ở đây 2 ngày|
+| 70   |I've heard Singapore is a beautiful place|Tôi đã nghe nói Singapore là một nơi đẹp|
+| 71   |I've never seen thay before|Tôi chưa từng thấy cái đó trước đây|
+| 72   |Just a little|Chỉ một chút|
+| 73   |Just a momnent|Chỉ một lát|
+| 74   |Let me check|Để tôi kiểm tra|
+| 75   |Let me think about it|Để tôi suy nghĩ về nó |
+| 76   |Let's go have a look|Chúng ta hãy đi xem|
+| 77   |Let's practice English |Chúng ta bắt đầu thực hành tiếng anh|
+| 78   |May I speak to Mrs Smith please|Tôi có thể nói chuyển với bà Smith được không.|
+| 79   |More than that|Hơn thế nữa |
+| 80   |Never Mind|Đừng bận tâm|
+| 81   |Next time| Kì tới |
+| 82   |No, thanks |Không, cảm ơn|
+| 83   |Nonsense|Vô lí|
+| 84   |Not recently|Không phải gần đây|
+| 85   |Not yet |Chưa|
+| 86   |Of Coures |Dĩ nhiên|
+| 87   |nothing else |Không có gì khác|
+| 88   |Please fill out this form|Làm ơn điền vào tờ đơn này|
+| 89   |Please write it down|làm ơn viết ra giấy|
+| 90   |Please take you to this address|Làm ơn đưa tôi tới địa chỉ này |
+| 91   |Really|Thật sao|
+| 92   | right here |Ngay chỗ này|
 |      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
-|      |                                          Title       |            Here's this   |
+
 
