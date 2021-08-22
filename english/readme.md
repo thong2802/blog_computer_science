@@ -4,8 +4,10 @@
 - [Facebook : Nguyễn Đức Thông](https://www.facebook.com/1824ttd)
 
 ## 1000 cụm từ Tiếng anh thông dụng 
+           
 | STT  |                     Description                      | Translations             |
 | :--- |                                             :----:   |                     ---: |
+|      |I ) NHỮNG THÀNH NGỮ THÔNG DỤNG                        |                          |  
 | 1    |Be careful driving                                    |Lái xe cận thận   |
 | 2    |Be careful                                            |Cận thận |
 | 3    |Can you translate this for me                         |Bạn có thể dịch cho tôi cái này được không |
@@ -96,7 +98,156 @@
 | 89   |Please write it down|làm ơn viết ra giấy|
 | 90   |Please take you to this address|Làm ơn đưa tôi tới địa chỉ này |
 | 91   |Really|Thật sao|
-| 92   | right here |Ngay chỗ này|
-|      |                                          Title       |            Here's this   |
+| 92   |right here |Ngay chỗ này|
+| 93   |Right there |Ngay đó|
+| 94   |See you later      |Găp bạn sau    |
+| 95   |See you tomorrow      |Gặp bạn vào ngày mai    |
+| 96   |See you tonight      | Gặp bạn tối nay   |
+| 97   |She's pretty      |Cô ấy đẹp    |
+| 98   |Sorry to bother you      |Xin lỗi đã làm phiền bạn    |
+| 99   |Stop      |Dừng lại    |
+| 100  |Take a chance      |Thử vận may    |
+| 101  |Take it outside      |Mang nó ra ngoài    |
+| 102  | Tell me     |Nói với tôi    |
+| 103  |Thanks miss      |Cảm ơn cô    |
+| 104  |Thanks sir      |Cảm ơn ngài    |
+| 105  |Thanks very much      |Cảm ơn rất nhiều    |
+| 106  |Thanks for everything     |Cảm ơn về mọi việc    |
+| 107  |Thanks for your help      |Cảm ơn vì giúp đỡ của bạn    |
+| 108  |That looks great      |Cái đó trông thật tuyệt    |
+| 109  |That smells bad      |Cái đó ngửi hôi    |
+| 110  |That's alright      |Được thôi    |
+| 111  |That's enough      |Như vậy đủ rồi    |
+| 112  |That's fine      |Như vậy tốt rồi    |
+| 113  |That's not fair      |Như vậy không cônh bằng    |
+| 114  |You're beautiful      |Bạn đẹp    |
+| 115  |That's not right      |Như vậy không đúng    |
+| 116  |That's too bad       |Như vậy qúa tệ    |
+| 117  |That's too much      |Như vậy quá nhiều    |
+| 118  |That's too many     |Như vậy quá nhiều    |
+| 119  |The book is under the table      |Quyển sách nằm trên mặt bàn   |
+| 120  |They'll be right back      |Họ sẽ quay trở lại    |
+| 121  |They're the same      |Họ trông giống nhau   |
+| 122  |They're very busy      |Họ đang rất bận    |
+| 123  |This doesn't work      |Cái này không hoạt động    |
+| 124  |This is very difficult      |Cái này rất khó    |
+| 125  |This is very important      |Cái này rất quan trọng    |
+| 126  |Try it      |Thử nó    |
+| 127  |Very good, thanks     |Rất tốt, cảm ơn    |
+| 128  |We like it very much      |Chúng tôi thích nó lắm    |
+| 129  |Wold you take a message please      |Bạn có thể nhận dùng tôi một timn nhắn được không    |
+| 130  |Yes, Really      |Vâng,Thục sự    |
+| 131  |Yo're things are all here      |Tất cả đồ của bạn ở đây    |
+| 132  |Yo're very nice      |Bạn rất dễ thường    |
+| 133  |Yo're very smart      |Bạn rất thông minh    |
+|      |II) DU LỊCH, PHƯƠNG HƯỚNG-CHÀO HỎI      |    |
+| 134  |Certainly      |Dĩ nhiên    |
+| 135  |Good afternoon      |Chào buổi chiều    |
+| 137  |Good evening sir  |Chào buổi tối thưa ngài    |
+| 138  |Good luck      |Chúc may mắn    |
+| 139  |Have a good trip      |Chúc một chuyến đi may mắn    |
+| 140  |Please call me      |Làm ơn gọi cho tôi    |
+| 141  |A one way tickit      |Vé một chiều    |
+| 142  |A round trip tickit      |Vé khứ hồi    |
+| 143  |About 100 kilometer       |Khoảng 100 cây số    |
+| 144  |Are you going to help her?      |Bạn sẽ giúp cô ta    |
+| 145  |At what time?      |Lúc mấy giờ    |
+| 146  |Can i make an appointment for next webnesday     |Tôi có thể xin hẹn vào thứ 4 được không    |
+| 147  |Go straight ahead      |Đi thẳng trước mặt    |
+| 148  |Have you arrived? |Bạn tới chưa    |
+| 149  |Have you been to HaNoi      |Bạn đã tới HN chưa?    |
+| 150  |How do i get there      |Làm sao tôi có thể tới đó    |
+| 151  |How do i get to  Hoang Dieu street      |Làm sao tôi có thể tới đường HD    |
+| 152  |How to i get to the American Embassy?   |Làm sao tôi có thể tới ĐẠi sứ quán mĩ    |
+| 153  |How long does it take by car      |Đi bằng xe oto mất ba0 lâu?    |
+| 154  |How long does it take to get to Gigamal?      |Tới Gigamal mất khoảng bao lâu?    |
+| 155  |How long is flight      |Chuyến bay bao lâu?    |
+| 156  |What was the movie?      |Bộ phim như thế nào    |
+| 157  |I have a question and i want to ask you? / I want to ask you a question?      | Tôi có một  câu hỏi và tôi muốn hỏi bạn/Tôi muốn hỏi bạn một câu hỏi?   |
+| 158  |I wish a had one      |Một ước có một cái    |
+| 159  |I'd like to make a phone call      |Một muốn gọi một cuộc điện thoại    |
+| 160  |I'd like to make revervation      |Muốn một đạt trước    |
+| 161  |I'll take that one also      |Tôi cũng lấy một cái đó    |
+| 162  |I'm going right now      |Tôi tới ngay    |
+| 163  |I'm going home in four day      |Tôi sẽ về nhà trong 4 ngày    |
+| 164  |When does he arrive ?   |Khi nào anh ta tới    |
+| 165  |When does it arrive ?     |Khi nào nó đến?    |
+| 166  |When does the bank open?      |Khi nào ngân hàng mở cửa    |
+| 167  |When does the bus leave  ?    |Khi nào xe buýt khởi hành?    |
+| 168  |Do you have enough money?      |Bạn có đủ tiền không?    |
+| 169  |Do you know How to cook?      |Bạn có biết nấu ăn không?    |
+| 170  |Do you know What this say?      |Bạn có biết cái này nói gì không?    |
+| 171  |Do you want me to come and pick you up?      |Bạn có muốn tôi tới đón bạn không?    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+
+## Vocabulary popular. 
+
+| STT  |                     Description                      | Translations             |
+| :--- |                                             :----:   |                     ---: |
+|      |I ) NHỮNG THÀNH NGỮ THÔNG DỤNG                        |                          |  
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
 
 
