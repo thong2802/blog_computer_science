@@ -13,6 +13,15 @@
 |5   |[1662_CheckIfTwoStringArraysareEquivalent](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_1662_CheckIfTwoStringArraysareEquivalent.java)|easy, array  |
 |6   |[1295_Find_Numbers_with_Even_Number_of_Digits](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_1295_Find_Numbers_with_Even_Number_of_Digits.java)|easy, array  |
 |7  |[414ThirdMaximumNumber](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Sort/_414ThirdMaximumNumber.java)|easy, array    |
+|8   |[283_MoveZeroes](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Big0/_283_MoveZeroes.java)        |two pointer, recursion     |
+|9  |[509FibonacciNumber](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Big0/_509FibonacciNumber.java)        |fibonacci     |
+|10   |[704_Binary_Search](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/BinarySearch/_704_Binary_Search.java)        |BinarySearch     |
+|11  |[206Reverse_Linked_List](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Linked_List/_206Reverse_Linked_List.java)        |Linked List    |
 | Paragraph   | Text        | And more      |
 | Paragraph   | Text        | And more      |
 | Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+| Paragraph   | Text        | And more      |
+
