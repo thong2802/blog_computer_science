@@ -15,7 +15,6 @@
 | Các chủ đề  | Translations| Video         |
 | :---        |    :----:   |          ---: |
 |[Android](https://github.com/thong2802/blog_computer_science/tree/master/Android)       | Title       | Here's this   |
-|[Flutter](https://github.com/thong2802/blog_computer_science/tree/master/Flutter)   | Text        | And more      |
 |[Leetcode](https://github.com/thong2802/blog_computer_science/tree/master/Leetcode)    | Text        | And more      |
 |[English](https://github.com/thong2802/blog_computer_science/tree/master/english)  | Text        | And more      |
 |[Database](https://github.com/thong2802/blog_computer_science/tree/master/Database)   | Text        | And more      |
@@ -23,9 +22,10 @@
 |[Opera System](https://github.com/thong2802/blog_computer_science/tree/master/Opera%20System)   | Text        | And more      |
 |[Security](https://github.com/thong2802/blog_computer_science/tree/master/Security)   | Text        | And more      |
 |[Swift](https://github.com/thong2802/blog_computer_science/tree/master/Swift)   | Text        | And more      |
+|[Flutter](https://github.com/thong2802/blog_computer_science/tree/master/Flutter)   | Text        | And more      |
 |[cs_questions](https://github.com/thong2802/blog_computer_science/tree/master/cs_questions)   | Text        | And more      |
 |[Blog](https://github.com/thong2802/blog_computer_science/tree/master/Blog)   | Text        | And more      |
-|         | Text        | And more      |
+|[Kotlin]         | Text        | And more      |
 |         | Text        | And more      |
 |         | Text        | And more      |
 
