@@ -25,8 +25,8 @@
 |[Flutter](https://github.com/thong2802/blog_computer_science/tree/master/Flutter)   | Text        | And more      |
 |[cs_questions](https://github.com/thong2802/blog_computer_science/tree/master/cs_questions)   | Text        | And more      |
 |[Blog](https://github.com/thong2802/blog_computer_science/tree/master/Blog)   | Text        | And more      |
-|[Kotlin]         | Text        | And more      |
-|         | Text        | And more      |
+|[Kotlin](https://github.com/thong2802/blog_computer_science/tree/master/Kotlin)         | Text        | And more      |
+|[Java](https://github.com/thong2802/blog_computer_science/tree/master/Java)         | Text        | And more      |
 |         | Text        | And more      |
 
 
