@@ -178,6 +178,153 @@
 | 169  |Do you know How to cook?      |Bạn có biết nấu ăn không?    |
 | 170  |Do you know What this say?      |Bạn có biết cái này nói gì không?    |
 | 171  |Do you want me to come and pick you up?      |Bạn có muốn tôi tới đón bạn không?    |
+| 172  |Does this road go to NewYork?      |Con đường này có tới NewYork không?    |
+| 173  |Follow me      |Theo tôi    |
+| 174  |From here to there      |Từ đây đến đó    |
+| 175  |I'm cleaning tomorrow      |Tôi sẽ đi vào ngày mai    |
+| 176  |I'm looking for the post office      |Tôi đang tìm bưu điện    |
+| 177  |Is this pen your?      |Bút này của bạn phải không?    |
+| 178  |One ticket to NewYork      |1 vé đi NewYork    |
+| 179  |One way or a round strip      |1 Vé hay khứ hồi    |
+| 180  |Please speak slower      |Làm ơn nói chậm ơn    |
+| 181  |Please take me to the airport      |Làm ơn đưa tôi tới sân bay    |
+| 182  |That way      |Lối đó    |
+| 183  |The phane departs at 5:30 pm      |Chiếc máy bay khởi hành vào lúc 5:30 chiều    |
+| 184  |They arrived yesterday      |Họ tới vào ngày hôm qua    |
+| 185  |Turn around      |Quay lại    |
+| 186  |Turn left      |Rẽ trái    |
+| 187  |Turn Right      |Rẽ trái    |
+| 189  |What time are you going to the bus station      |Mấy giờ bạn sẽ ra trạm xe buýt    |
+| 190  |When did this happen?      |Sự việc xảy ra khi nào?    |
+| 191  |What did this happen?      |Chuyện gì xảy ra vậy?    |
+| 193  |When did you arrive in Boston?      |Bạn tới Boston khi nào vậy?    |
+| 194  |When do we arrive?      |Khi nào chúng ta tới    |
+| 195  |When do we leave?      |Khi nào chúng ta rời đi    |
+| 196  |Where can i mail this?      |Tôi có thể giửi mail này ở đâu?    |
+| 197  |Where is she from?      |Cô ta từ đâu tới?    |
+| 198  |Where is the bathrom ?     |Phòng tắm ở đâu?    |
+| 199  |Why not?      |Tại sao không ?    |
+| 200  |Will you remind me?      |Làm ơn nhắc lại tôi?    |
+|      |CON SỐ - TIỀN BẠC      |    |
+| 201  |10 dollars      |10 đô    |
+| 202  |50 cens      |50 đồng    |
+| 203  |A few      |1 vài    |
+| 204  |A little   |1 ít    |
+| 205  |Call the police      |Gọi cảnh sát    |
+| 206  |Did your wife like HANOI?      |Vợ của anh có thích hà nội?    |
+| 207  |Do you have any coffee?      |Bạn có ca phê không?    |
+| 208  |Do you have anything cheaper?      |Bạn có thứ gì rẻ hơn không?    |
+| 209  |Do you take creadit cards?      |Bạn có thể thẻ tin dụng không?    |
+| 210  |How are you paying?      | Bạn trả bằng gì?   |
+| 211  |How many people are there in NewYork      |Ở NewYork có bao nhiêu ngừoi?    |
+| 212  |How much is there EARRING?      |Bông tai này giá bao nhiêu?    |
+| 213  |I'll pay for the tickets      |Tôi sẽ trả tiền vé.    |
+| 214  |Is that oke?      |Như vậy được không?    |
+| 215  |Is there any mail for me?      |Có thư cho tôi không?    |
+| 216  |Isn't it      |Thật không?    |
+| 217  |It's 11:30pm      |Bây giờ là 11:30 tối    |
+| 218  |It's is a quarter past nine ?     |Bây giờ là 9:15    |
+| 219  |Please come in      | Làm ơn vào trong   |
+| 220  |Sorry. We don't accept creadit cards?      |Xin lỗi. Chúng tôi không châp nhận thẻ tín dụng.    |
+| 221  |Sorry. We only accept CASH      |Xin lỗi, chúng tôi chỉ chấp nhận tiền mặt.    |
+| 222  | How much do I owe you?     |Tôi nợ bạn bao nhiêu?    |
+| 223  |How much does it cost per day?      |Chú phí bao nhiêu mỗi ngày    |
+| 224  |How much does it this cost?      |Nó có giá bao nhiêu    |
+| 225  |How much is it to go to HaNoi      |tới hà nội bao nhiêu tiền    |
+| 226  |How much money do you make?      |Bạn làm được bao nhiêu tiền?    |
+| 227  |I don't have a girlFriend      |Tôi không có bạn gái.    |
+| 228  |I don't have any money?      |Tôi không có tiền.    |
+| 229  |I have a Reservation.      | Tôi đã đặt trước   |
+| 230  |I need to practice my English      |Tôi cần thưc hành tiếng anh    |
+| 231  |I'd like to eat at 5th treet restaurant      |Tôi muốn ăn tại nhà hàng đường số 5.    |
+| 232  |I'll have the same thing      |Tôi sẽ có cùng món như vậy.  |
+| 233  |I'll pay for dinner      |Tôi sẽ trả bữa tối    |
+| 234  |That restaurant is not expensive.      |Nhà hàng này không đắt    |
+| 235  |That's too expensive      | Như vậy quá đắt   |
+| 236  |There are many people here      |Ở đây có nhiều người    |
+| 237  |They charge 26 dollars per day     | Họ tính 26 đô mỗi ngày   |
+| 238  |What the phone number?      |Sô điện thoại là gì?    |
+| 239  |Where can i buy ticket?      |Tôi có thể mua vé ở đâu    |
+| 240  |Where would you like to meet?      | Bạn muốn gặp ở đâu?   |
+| 241  |Which one is better?      |Cái nào tốt hơn?    |
+| 242  |Across from the post office      |Đối diện bưu điện    |
+| 243  | at 3 o'clock     |Lúc 3 giờ    |
+| 244  |Be quiet      |Hãy im lặng    |
+| 245  |Can you recomment a good restaurant  ?    |Bạn có thể đề nghị nhà hàng nào ngon không?    |
+| 246  |He studies at Bostom Univercity?      |Anh ta học tại đại học bostom    |
+| 247  |I was in the library      |Tôi ở trong thư viện.    |
+| 248  |I'd like a single room      |Tôi muốn một phòng đơn    |
+| 249  |It's delicous      |Món này ngon    |
+| 250  |It's is a half past 10      | Bây giờ là 10 giờ rưỡi   |
+| 251  |It's less than 5 dollars      | No ít hơn 5 dô   |
+| 252  |It's more than 5 dollars      |Nó nhiều hơn 5 đô    |
+| 253  |It's near the supermarket.      | No gần siêu thị   |
+| 255  |It's not suppose to rain to day      | Ngày hôm nay có lẽ không mưa   |
+| 256  |It's oke.       |Được rồi    |
+| 257  | It's on the 7th street     |Nó trên đường số 7    |
+| 258  |It's really hot      |Nó thực sự nóng    |
+| 259  |It's suppose to raint tomorrow      |TRơi có thể mưa vào ngày mai    |
+| 260  |Let's go      |Chúng ta đi thôi    |
+| 261  |May be      |Có lẽ    |
+| 262  |More than 200 miles      |Hơn 200 dặm    |
+| 263  |My house is close to the bank      |Nhà tôi gần gân hàng    |
+| 264  |Near the bank      |Gần ngân hàng    |
+| 265  |Here you are      | Đây này   |
+| 266  |He in the kitchen      |Anh ta ỏ trong phòng bếp    |
+| 267  |How far is it to chicaco?      |Tới chicago bao xa    |
+| 268  | How far is it?     |Nó bao xa    |
+| 269  |How many mile is it to Ha noi      |Tới hà nội bao nhiêu dặm    |
+| 270  |I like to watch TV      |Tôi thích xem tivi    |
+| 271  |I was going  to the library      |Tôi sắp tới thư viện    |
+| 272  |On the left      |Bên trái    |
+| 273  |On the right      |Bên phải    |
+| 274  |On the two floor      |Ở trên tâng 2    |
+| 275  |Outside the hotel      |Bên ngoài khách sạn    |
+| 276  |Over here      |Ở đây    |
+| 277  | Over there     | Ở kia   |
+| 278  |The book is behind the table    |Quyển sach ở đằng sau cái tủ    |
+| 279  |The book is font of the table     |Quyển sach ở trước cái bàn    |
+| 280  |The book is near the table      |Quyển sách ở gần cái bàn    |
+| 281  |The book is next to the table      |Quyển sách ở cạnh cái bàn    |
+| 282  |The book is on Top the table      |Quyển sách ở trên mặt bàn    |
+| 283  |There are some books On the table      | Có vài quyển sách ở ở trên mặt bàn   |
+| 284  |There's book under the table.      |Có một quyển sách dứoi mặt bàn    |
+| 285  |We're from Ha Noi      |Chúng tôi tới từ Hà Nội.    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
 |      |      |    |
 |      |      |    |
 |      |      |    |
@@ -204,38 +351,38 @@
 
 | STT  |                     Description                      | Translations             |
 | :--- |                                             :----:   |                     ---: |
-|      |I ) NHỮNG THÀNH NGỮ THÔNG DỤNG                        |                          |  
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
+|TỰ NHIÊ| Animals                      |                          |  
+| 1    | Bear     |Gấu    |
+| 3    |Bird      |Chim    |
+| 4    |Cat      | Mèo   |
+| 5    |Chicken      |Gà    |
+| 6    |Cow      | Con bò    |
+| 7    |Dog      | con chó    |
+| 8    |Donkey      |Con lừa    |
+| 9    |Elephant      |Con voi    |
+| 10   |Fish      |Con cá    |
+| 11   |Goat      |Con dê    |
+| 12   |hORSE      |Con ngựa    |
+| 13   |Insect      |Con trùng    |
+| 14   |Loin      |Sư tử    |
+| 15   |Monkey      |Con khỉ    |
+| 16   |Mouse      |Con chuột    |
+| 17   |OX      |bò đực    |
+| 18   |Pig      |Con heo    |
+| 19   |Rabbit      |Con thỏ    |
+| 20   |Sheep      |Con cừu    |
+| 21   |Tiger     |Con hổ    |
+|      |PLANTS(CÂY CỐI)      |    |
+| 22   |Bloom      |nở hoa    |
+| 22   |Branch      |Cành cây    |
+| 23   |Bud      |Búp cây,chồi    |
+| 24   |Bush      |Bụi cây    |
+| 25   |Flower      |Hoa    |
+| 26   |Grass      |Cỏ    |
+| 27   |Grow      |Mọc lê, lớn lên, phát triển    |
+| 28   |Leaf      |Cá cây    |
+| 29   |Root      |Rễ cây    |
+| 30   |Seed      |Hạt giống    |
 |      |      |    |
 |      |      |    |
 |      |      |    |
