@@ -290,6 +290,84 @@
 | 283  |There are some books On the table      | Có vài quyển sách ở ở trên mặt bàn   |
 | 284  |There's book under the table.      |Có một quyển sách dứoi mặt bàn    |
 | 285  |We're from Ha Noi      |Chúng tôi tới từ Hà Nội.    |
+| 286  |What' the address      |Địa chỉ là gì?    |
+| 289  |Where are you going?      |Bạn sẽ đi đâu?    |
+| 290  |Where is it?      |No ở đâu?    |
+| 291  |Where would you like to go?      |BẠN muốn đi đâu?    |
+| 292  |Who won?      |Ai thắng?    |
+|      |THỜI GIAN ĐỊA ĐIỂM      |    |
+| 293  |Can i see your passport please ?      |Làm ơn cho tôi xem giấy thông hành của bạn?    |
+| 294  |Can i take a message?      | Có cần tôi chuyển lời không?   |
+| 295  |Can i try it on?      |Tôi có thể mặc thử không    |
+| 296  |Can I sit over here      |Tôi có thể ngồi đây không?    |
+| 297  |Did you come with your family?      |Bạn tới cùng gia đình hả?    |
+| 298  |Do you think it's Possible?     |Bạn có nghĩ điều đó xảy ra không?    |
+| 299  |Here my Number?      |Số của tôi đây    |
+| 300  |He's not in right now      |Bây giờ anh ta không có ở đây    |
+| 301  |Hi, Is Mrs Tran there , Please?      |Chào, có phải bà Tran ở kia không, làm ơn   |
+| 302  |I have three children, two girls and one boy.      |Tôi có 3 người con, 2 gái một trai    |
+| 303  |I need some tissues       | Tôi cần một ít khăn giấy   |
+| 304  |I'd like some water too, please      |Tôi cũng muốn một ít nước    |
+| 305  |I'd like to buy a bottle of water,please      |Tôi muốn mua một chai nước, làm ơn   |
+| 306  |I'd like to buy a somthing      |Tôi muốnm mua một vài thứ    |
+| 307  |I'd like to go to store     |Tôi muốn tới cửa hàng.    |
+| 308  |What is the area code?      |Mã vùng là bao nhiêu    |
+| 309  |What's the name of company you work for?      |Tên công ty của bạn làm việc là gì?    |
+| 310  |What's your address      |Địa chỉ của bạn là gì?    |
+| 311  |Where can i find a hospital ?    |Tôi có thể tìm một bệnh viện ở đâu?    |
+| 312  |Where's the closest a restaurent?      |Nhà hàng gần nhất ở đâu?    |
+| 313  |I'd like to rent a car      |Tôi muốn thuê một chiếc xe oto    |
+| 314  |I'd like to send a gift      |Tôi muốn giửi một món quà.     |
+| 315  |I want to give you a gift      |Tôi muốn tặng bạn một món qùa.    |
+| 316  |I'd like to send this to amrican      |Tối muối giửi cái này tới MĨ    |
+| 317  |I'd like to speak to Mr Smith please?      |Tôi muốn nói chuyện với ông Smith, xin vui long    |
+| 318  |I'll be rigth back      |Tôi sẽ quay trở lại ngay    |
+| 319  |I'll call back later      |Tôi sẽ gọi lai sau    |
+| 320  |I'll call you on Friday      |Tôi sẽ gọi bạn bạn vào thứ 6    |
+| 321  |I'll teach you      | Tôi sẽ dạy bạn   |
+| 322  |I'm oke      |Tôi ổn    |
+| 323  |Is there English Speak Guide?      |Có hướng dẫn viên nói tiếng anh không?    |
+| 324  |Male or female      |Nam hay nữ    |
+| 325  |My cell phone doen't have good reception      | Điện thoại di động của tôi không nhận tín hiệu tốt   |
+| 326  |My cell phone doen't work      |Điện thoại di động của tôi hoạt động không tôt.    |
+| 327  |Please take off your shoes      |Làm ơn cơỉ giày của ban ra    |
+| 328  |Sorry, I think i have the wrong numbet      |Tôi xin lỗi, tôi nghĩ tôi gọi nhầm số    |
+| 329  |Where's the pharmacy      |Hiệu thuốc ở đâu    |
+| 330  |Who are you?      |Bạn là ai    |
+| 331  |Who is that?      |Nó là ai     |
+| 332  |Who would you like to speak to?      |Bạn muốn nói chuyện với ai    |
+| 333  |Will you take me home      |Làm ơn đưa tôi về  nhà   |
+| 334  |Would you like water or milk?      |Bạn muốn uống nước hay sữa    |
+| 335  |11 days ago      |Cách đây 11 ngày    |
+| 336  | two hour      |2 tiếng    |
+| 337  |A long time ago      |Cách đây đã lâu    |
+| 338  |All day      |suốt ngày    |
+| 339  |Are they comming this evening?      |Tối nay họ có tới hay không?    |
+| 340  |Are you Comfortable?      |Bạn có thấy thoải mái không?    |
+| 341  |Are you children with you?      |Con của bạn có tới với ban không?    |
+| 342  |As soon as possible      |Càng sớm càng tốt    |
+| 343  |at 3 o'clock in the afternoon      |Tại lúc 3 giờ chiều    |
+| 344  |At 5th street      | Tại đường số 5   |
+| 345  |Have you been waitting long?      |Bạn đã đơi lâu chưa?    |
+| 346  |He'll be back in 20 minutes      |Anh ta sẽ quay lại trong 20 phút nữa    |
+| 347  |His family is comming tomorrow      |GĐ anh ta sẽ tới vào ngày mai    |
+| 348  |How about Saturday?      |Còn thứ 7 thì sao?    |
+| 349  |How long are you going to stay in HN?      |Bạn sẽ ở lại hà nội bao lâu?    |
+| 350  |How long are you going to stay?      |Bạn sẽ ở lại trong bao lâu    |
+| 351  |How long will it take?      |Sẽ mất bao lâu    |
+| 352  |As of this momnent      |Tính tới thời điệm hiên tại    |
+| 353  |I made really good friends here      |Tôi đã có những ngừoi bạn thực sự tốt ở đây.     |
+| 354  |How much altogether      |Tất cả bao nhiêu    |
+| 355  |How much will it cost      |Sẽ tốn bao nhiêu    |
+| 356  |I don't have enough money      |Tôi không có đủ tiền    |
+| 357  |I'm getting ready to go out      |Tôi chuẩn bị đi    |
+| 358  |I just looking      |Tôi chỉ xem tôi    |
+| 359  |I'm worried  too    |Tôi cũng đang lo    |
+| 360  |It raind very hard  today      |Hôm nay trời mưa rất to    |
+| 361  |Id'll be cold this evening      | Tối nay trời sẽ lạnh   |
+| 362  |It's 17 dollars      |Giá 17 đô    |
+| 363  |It's 6 am      |Bây giờ là 6 giờ sáng    |
+| 364  |What is today's date?      |Ngày hôm nay thứ mấy ?    |
 |      |      |    |
 |      |      |    |
 |      |      |    |
@@ -330,22 +408,7 @@
 |      |      |    |
 |      |      |    |
 |      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
-|      |      |    |
+
 
 ## Vocabulary popular. 
 
@@ -383,6 +446,66 @@
 | 28   |Leaf      |Cá cây    |
 | 29   |Root      |Rễ cây    |
 | 30   |Seed      |Hạt giống    |
+| 31   |Thorn      |Gai    |
+| 32   |Tree    |cái cây    |
+| 33   |Trunk      |Thân cây    |
+| 34   |Wood      |Gỗ    |
+|      |FRUIT(TRÁI CÂY)      |    |
+| 35   |Apple      |quả táo    |
+| 36   |banana      |quả chuối    |
+| 37   |Cherry      |quả anh đào    |
+| 38   |Coconut      |quả dừa    |
+| 39   |grape      |quả nho    |
+| 40   |Juice      |nước ép    |
+| 41   |Juicy      |mọng nước    |
+| 42   |Lemon      |quả chanh vàng    |
+| 43   |Lime      |quả chanh xanh    |
+| 44   |Mango      |quả xoài    |
+| 45   |Orange      |quả cam    |
+| 46   |Papaya      |quả đu đủ    |
+| 47   |Peach      |quả đào    |
+| 48   |Pear      |quả lê    |
+| 49   |peel      | gọt vỏ(verd), vỏ ngoài trái cây(noun)   |
+| 50   |Pineapple      |quả dứa    |
+| 51   |Plum      |quả mận    |
+| 52   |Ripe      |Chín    |
+| 53   |trawberry      |quả dâu tây    |
+| 54   |watermelon      |quả dưa hấu    |
+| 55   |Bean      |đậu    |
+| 56   |Bell pepper     |Ớt chuông    |
+| 57   |Broccoli      |súp lơ    |
+| 58   |Cabbage      |bắp cải    |
+| 59   |Carrot      |cà rốt    |
+| 60   |Celery      |rau cần tây    |
+| 62   |Chili      | ớt    |
+| 63   |Corn      |bắp, ngô    |
+| 64   |Cucumber      |dưa chuột    |
+| 65   |Egg plant      | cà tím   |
+| 66   |Garlic      |củ tỏi    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
+|      |      |    |
 |      |      |    |
 |      |      |    |
 |      |      |    |
