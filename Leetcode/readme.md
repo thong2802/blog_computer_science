@@ -17,11 +17,23 @@
 |9  |[509FibonacciNumber](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Big0/_509FibonacciNumber.java)        |fibonacci     |
 |10   |[704_Binary_Search](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/BinarySearch/_704_Binary_Search.java)        |BinarySearch     |
 |11  |[206Reverse_Linked_List](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Linked_List/_206Reverse_Linked_List.java)        |Linked List    |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
-| Paragraph   | Text        | And more      |
+|12   |[977SquaresofaSortedArray](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_977SquaresofaSortedArray.java)        | Array      |
+|13   |[941ValidMountainArray](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_941ValidMountainArray.java)        | array     |
+|14   |[905SortArrayByParity](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_905SortArrayByParity.java)        | arry     |
+|15    |[724FindPivotIndex](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_724FindPivotIndex.java)        | array     |
+|16   | [66PlusOne](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_66PlusOne.java)        | arry     |
+|17   | [485MaxConsecutiveOnes](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_485MaxConsecutiveOnes.java)        | array     |
+|18   | [448FindAllNumbersDisappearedinanArray](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_448FindAllNumbersDisappearedinanArray.java)        | array     |
+|19   | [26RemoveDuplicatesfromSortedArray](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_26RemoveDuplicatesfromSortedArray.java)        | array    |
+|20  | [1346CheckIfNandItsDoubleExist](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_1346CheckIfNandItsDoubleExist.java)        | array      |
+|21   |[1299ReplaceElementswithGreatestElementonRightSide](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_1299ReplaceElementswithGreatestElementonRightSide.java)        | array     |
+|22  |[1089DuplicateZeros](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/array/_1089DuplicateZeros.java)        | array     |
+|23  |[20_ValidParentheses](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/StackAndQueue/_20_ValidParentheses.java)        | Stack     |
+|24  |[622DesignCircularQueue](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/StackAndQueue/_622DesignCircularQueue.java)        | Queue     |
+|25   |[933NumberofRecentCalls](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/StackAndQueue/_933NumberofRecentCalls.java)        | Queue     |
+|26   | [414ThirdMaximumNumber](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Sort/_414ThirdMaximumNumber.java)        |Sort    |
+|27  |[206Reverse_Linked_List](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Linked_List/_206Reverse_Linked_List.java)       | Linked_List     |
+|28   |[707DesignLinkedList](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/Linked_List/_707DesignLinkedList.java)        | Linked_List     |
+|29  |[217ContainsDuplicate](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/HastTable/_217ContainsDuplicate.java)        | Hastset    |
+|30  |[387FirstUniqueCharacterinaString](https://github.com/thong2802/Structure-and-Algrithms/blob/master/src/HastTable/_387FirstUniqueCharacterinaString.java)       | hastmap     |
 
